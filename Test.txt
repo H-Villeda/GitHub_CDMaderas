@@ -1,1 +1,2 @@
 Este es un archivo de texto para verificar que GitHub se actualize
+Se agrega una linea de texto en GitHub para verificar en VSCode
